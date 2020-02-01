@@ -10,4 +10,24 @@
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
         android:text="@string/get_a_spot" />
+
+    <TextView
+        android:id="@+id/slotnumber"
+        android:layout_width="92dp"
+        android:layout_height="86dp"
+        android:layout_above="@+id/button2"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginStart="165dp"
+        android:layout_marginLeft="165dp"
+        android:layout_marginTop="127dp"
+        android:layout_marginEnd="154dp"
+        android:layout_marginRight="154dp"
+        android:layout_marginBottom="129dp" />
+
+
+
 </RelativeLayout>

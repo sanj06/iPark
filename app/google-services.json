@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "486485630897",
+    "firebase_url": "https://nodemcutry-788b4.firebaseio.com",
+    "project_id": "nodemcutry-788b4",
+    "storage_bucket": "nodemcutry-788b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486485630897:android:1ba6bfc6a39c913c9ba790",
+        "android_client_info": {
+          "package_name": "com.example.ipark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486485630897-jtscae8qh3advp4d8efiegnco1pofnvg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ipark",
+            "certificate_hash": "aa78a2e8f224bc65c5c6f1429f1390c8af94921c"
+          }
+        },
+        {
+          "client_id": "486485630897-rto4tbnef4nvqii3u7bbf62kup5pbd1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuGRaW2vgFJqgLlbvaPcLf2II812B-aOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486485630897-rto4tbnef4nvqii3u7bbf62kup5pbd1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
